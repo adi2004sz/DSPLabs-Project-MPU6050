@@ -13,15 +13,17 @@ This project involves creating a driver to interface with the **MPU6050** sensor
 * Configurable UART communication for data transmission.
 * Compatibility with LPC2148 microcontroller.
 * Debugging support via Digital Logic Analyzer (recommended: Saleae Logic Pro 16).
+
 ## **Getting Started**
+
 **Prerequisites**
 * LPC2148 microcontroller.
 * MPU6050 sensor module.
 * Digital Logic Analyzer (optional for debugging).
 * Development environment supporting ARM LPC2148 (e.g., Keil uVision, or any other ARM-compatible IDE).
+  
 **Documentation**
 For detailed information on hardware and firmware configuration, please consult:
-
 * LPC2141/42/44/46/48 datasheet
 * UM10139 LPC214x User manual
 * lpc-ARM-book_srn
@@ -30,6 +32,7 @@ For detailed information on hardware and firmware configuration, please consult:
 Power on the LPC2148 board with the MPU6050 connected (don't forget about the pullup resistors)
 Open your terminal software and connect to the appropriate COM port at the configured baud rate (e.g., 9600 baud).
 Start the program to begin data transmission from the MPU6050. Data will display in real-time on the terminal.
+
 **Debugging**
 Using a Digital Logic Analyzer is recommended for debugging. We used the Saleae Logic Pro 16, which helped us capture and analyze I2C signals for effective troubleshooting.
 
