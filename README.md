@@ -38,14 +38,18 @@ Using a Digital Logic Analyzer is recommended for debugging. We used the Saleae 
 
 ## **Authors**
 This project was developed under the guidance of Valentin Satangaciu at DspLabs.
+
 Project Authors:
 
-Ghimpau Mihai-Vladimir
-Sztanarec Adrian-Gabriel
+* Ghimpau Mihai-Vladimir
+* Sztanarec Adrian-Gabriel
 
 ## **Acknowledgments**
+
 DspLabs for providing resources and guidance.
+
 Valentin Satangaciu for mentorship throughout the project.
+
 ## **Contact**
 For inquiries, please reach out via GitHub.
 
