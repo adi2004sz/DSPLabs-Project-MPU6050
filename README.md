@@ -48,7 +48,7 @@ Project Authors:
 
 DspLabs for providing resources and guidance.
 
-Valentin Satangaciu for mentorship throughout the project.
+Valentin Stangaciu for mentorship throughout the project.
 
 ## **Contact**
 For inquiries, please reach out via GitHub.
