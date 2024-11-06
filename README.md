@@ -37,7 +37,7 @@ Start the program to begin data transmission from the MPU6050. Data will display
 Using a Digital Logic Analyzer is recommended for debugging. We used the Saleae Logic Pro 16, which helped us capture and analyze I2C signals for effective troubleshooting.
 
 ## **Authors**
-This project was developed under the guidance of Valentin Satangaciu at DspLabs.
+This project was developed under the guidance of Valentin Stangaciu at DspLabs.
 
 Project Authors:
 
